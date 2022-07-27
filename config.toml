@@ -1,4 +1,4 @@
-baseURL = "http://fjdj.dev"
+baseURL = "http://fjdj.dev/"
 title = "fjdj's page"
 theme = "hugo-coder"
 languageCode = "en"
