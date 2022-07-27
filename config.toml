@@ -37,7 +37,7 @@ hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
-customCSS = []
+customCSS = ["default", "/css/custom.css"]
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
 customSCSS = []
 # Custom JS
@@ -77,7 +77,7 @@ customJS = []
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
 childsrc = ["'self'"]
-fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
+fontsrc = ["YuGothic","'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
 formaction = ["'self'"]
 framesrc = ["'self'"]
 imgsrc = ["'self'"]
@@ -171,9 +171,9 @@ url = "projects/"
 # weight = 5
 # url = "contact/"
 
-[languages.jp]
-languageName = ":jp:"
-title = "fjdjの部屋"
+# [languages.jp]
+# languageName = ":jp:"
+# title = "fjdjの部屋"
 
 [languages.jp.params]
 author = "fjdj"

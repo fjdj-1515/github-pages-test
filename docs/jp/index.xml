@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fjdjの部屋</title>
+    <title>fjdj&#39;s page</title>
     <link>http://fjdj.dev/jp/</link>
-    <description>Recent content on fjdjの部屋</description>
+    <description>Recent content on fjdj&#39;s page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="http://fjdj.dev/jp/index.xml" rel="self" type="application/rss+xml" />
   </channel>
