@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on fjdj&#39;s page</title>
+    <link>http://fjdj.dev/posts/</link>
+    <description>Recent content in Posts on fjdj&#39;s page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Jul 2022 16:55:29 +0900</lastBuildDate><atom:link href="http://fjdj.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>http://fjdj.dev/posts/test/</link>
+      <pubDate>Wed, 27 Jul 2022 16:55:29 +0900</pubDate>
+      
+      <guid>http://fjdj.dev/posts/test/</guid>
+      <description>title hoge fuga</description>
+    </item>
+    
+  </channel>
+</rss>
