@@ -13,7 +13,7 @@ enableEmoji = true
 publishDir = "docs"
 
 [params]
-author = "fjdj"
+author = "fjdj / Yuya Hamashima"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "fjdj's personal website"
 keywords = "student,developer,personal"
