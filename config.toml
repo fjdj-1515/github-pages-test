@@ -166,11 +166,6 @@ name = "Projects"
 weight = 3
 url = "projects/"
 
-[[languages.en.menu.main]]
-name = "Links"
-weight = 4
-url = "links/"
-
 # [[languages.en.menu.main]]
 # name = "Contact me"
 # weight = 5
