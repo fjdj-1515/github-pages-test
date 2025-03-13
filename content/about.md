@@ -4,8 +4,8 @@ date: 2022-07-27T16:58:08+09:00
 draft: false
 ---
 
-fjdj/Yuya Hamashimaです。
-現在は電気通信大学に所属しています。
+fjdj / Yuya Hamashimaです。
+現在は電気通信大学に在籍しています。
 
 ## belong
 - 無線部(JA1ZGP)
